@@ -9,3 +9,8 @@ Main interest:
 - RC airplane
 - DIY Computer
 - Guitar
+
+Contact:
+-
+Blog  : <https://blog.naver.com/pata->   
+Email : yoopata@postech.ac.kr
