@@ -1,16 +1,14 @@
 Yoopata
 =
-Hi. I enjoy making my own toys. Let's have fun together!
-   
+Let's have fun together!
    
       
 Main interest:   
 -
-- RC airplane
-- DIY Computer
-- Guitar
+- Computer Vision
+  - 3D LiDAR
+  - Segmentation
 
 Contact:
 -
-Blog  : <https://blog.naver.com/pata->   
 Email : yoopata@postech.ac.kr
