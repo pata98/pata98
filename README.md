@@ -8,6 +8,7 @@ Main interest:
 - Computer Vision
   - 3D LiDAR
   - Segmentation
+  - Robotics
 
 Contact:
 -
